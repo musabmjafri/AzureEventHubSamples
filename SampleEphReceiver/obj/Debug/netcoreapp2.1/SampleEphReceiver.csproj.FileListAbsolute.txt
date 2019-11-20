@@ -1,0 +1,10 @@
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Debug\netcoreapp2.1\SampleEphReceiver.deps.json
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Debug\netcoreapp2.1\SampleEphReceiver.runtimeconfig.json
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Debug\netcoreapp2.1\SampleEphReceiver.runtimeconfig.dev.json
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Debug\netcoreapp2.1\SampleEphReceiver.dll
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Debug\netcoreapp2.1\SampleEphReceiver.pdb
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Debug\netcoreapp2.1\SampleEphReceiver.csprojAssemblyReference.cache
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Debug\netcoreapp2.1\SampleEphReceiver.AssemblyInfoInputs.cache
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Debug\netcoreapp2.1\SampleEphReceiver.AssemblyInfo.cs
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Debug\netcoreapp2.1\SampleEphReceiver.dll
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Debug\netcoreapp2.1\SampleEphReceiver.pdb

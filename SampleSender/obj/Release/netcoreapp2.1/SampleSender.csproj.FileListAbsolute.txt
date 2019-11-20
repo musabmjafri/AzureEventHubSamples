@@ -1,0 +1,10 @@
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\SampleSender.deps.json
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\SampleSender.runtimeconfig.json
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\SampleSender.runtimeconfig.dev.json
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\SampleSender.dll
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\SampleSender.pdb
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\SampleSender.csprojAssemblyReference.cache
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\SampleSender.AssemblyInfoInputs.cache
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\SampleSender.AssemblyInfo.cs
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\SampleSender.dll
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\SampleSender.pdb

@@ -1,0 +1,12 @@
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\SampleSender.exe
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\SampleSender.deps.json
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\SampleSender.runtimeconfig.json
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\SampleSender.runtimeconfig.dev.json
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\SampleSender.dll
+C:\Users\musab\OneDrive\Desktop\SampleSender\bin\Release\netcoreapp2.1\win-x86\SampleSender.pdb
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\win-x86\SampleSender.AssemblyInfoInputs.cache
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\win-x86\SampleSender.AssemblyInfo.cs
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\win-x86\SampleSender.dll
+C:\Users\musab\OneDrive\Desktop\SampleSender\obj\Release\netcoreapp2.1\win-x86\SampleSender.pdb

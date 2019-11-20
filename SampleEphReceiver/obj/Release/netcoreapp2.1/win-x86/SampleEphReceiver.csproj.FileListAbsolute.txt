@@ -1,0 +1,13 @@
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\SampleEphReceiver.exe
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\SampleEphReceiver.deps.json
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\SampleEphReceiver.runtimeconfig.json
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\SampleEphReceiver.runtimeconfig.dev.json
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\SampleEphReceiver.dll
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\bin\Release\netcoreapp2.1\win-x86\SampleEphReceiver.pdb
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Release\netcoreapp2.1\win-x86\SampleEphReceiver.csprojAssemblyReference.cache
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Release\netcoreapp2.1\win-x86\SampleEphReceiver.AssemblyInfoInputs.cache
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Release\netcoreapp2.1\win-x86\SampleEphReceiver.AssemblyInfo.cs
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Release\netcoreapp2.1\win-x86\SampleEphReceiver.dll
+C:\Users\musab\OneDrive\Desktop\SampleEphReceiver\obj\Release\netcoreapp2.1\win-x86\SampleEphReceiver.pdb
